@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="60" alt="insta logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
 
 </div>
 
