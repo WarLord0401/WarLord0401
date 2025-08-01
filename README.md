@@ -3,37 +3,27 @@
 </div>
 
 ###
+  <h1>👋 Hi there, I'm Kanishk Teotia</h1>
 
-<div align="center">
-  <a href="https://linkedin.com/in/teotia-kanishk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/KanishkT2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@study-with-kt/streams" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://paypal.me/KanishkT0401" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  </a>
-  <a href="https://twitch.tv/warlord_0401" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kanishkteotia501" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
+  <p>
+    🎯 <strong>Web Developer | Front-End Focused | ReactJS Enthusiast</strong><br>
+    🎓 B.Tech in Information Technology from JSS Academy of Technical Education, Noida<br>
+    💼 SDE Intern at Bluestock (01 May to 30 June, 2025)
+  </p>
 
-###
+  <hr style="margin: 2rem 0; border: 0; height: 1px; background: #ddd;">
 
-<div align="center">
+  <h2>🚀 About Me</h2>
+  <p>
+    I'm a passionate and detail-oriented web developer with hands-on experience building responsive and accessible user interfaces. I specialize in <strong>ReactJS</strong>, <strong>JavaScript</strong>, and modern web technologies like <strong>TailwindCSS</strong>, <strong>Bootstrap</strong>, and <strong>MySQL</strong>.
+  </p>
+  <p>
+    In my internship at <strong>Bluestock</strong>, I was the part of a dynamic team where I contributed to the development of scalable and modular UI components.
+  </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WarLord0401&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <hr style="margin: 2rem 0; border: 0; height: 1px; background: #ddd;">
 
-###
-
+  <p>Tech Stack: </p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -85,5 +75,56 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
+  <hr style="margin: 2rem 0; border: 0; height: 1px; background: #ddd;">
+
+  <h2>📌 Notable Projects</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>
+      🔹 <a href="https://warlord0401.github.io/BOA" target="_blank" rel="noopener noreferrer"><strong>Box Office App</strong></a> – <em>ReactJS + TVMaze API</em><br>
+      PWA to search Movies, TV Shows & Actors (90,000+ listings).<br>
+      🎯 Scored 100% in Performance, Best Practices & SEO on Lighthouse
+    </li>
+    <br>
+    <li>
+      🔹 <a href="https://sortpaths.surge.sh" target="_blank" rel="noopener noreferrer"><strong>SortPaths</strong></a> – <em>Algorithm Visualizer</em><br>
+      Visualizer for 6 sorting and 4 pathfinding algorithms with real-time animations
+    </li>
+    <br>
+    <li>
+      🔹 <strong>Layoffs EDA (MySQL)</strong> – <em>Post-COVID Data Analytics</em><br>
+      Performed EDA on global layoffs data using MySQL to uncover key trends
+    </li>
+  </ul>
+
+  <hr style="margin: 2rem 0; border: 0; height: 1px; background: #ddd;">
+
+  <h2>📫 Socials: </h2>
+  <div align="center">
+  <a href="https://linkedin.com/in/teotia-kanishk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/KanishkT2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@study-with-kt/streams" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://paypal.me/KanishkT0401" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+  <a href="https://twitch.tv/warlord_0401" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kanishkteotia501" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+  <hr style="margin: 2rem 0; border: 0; height: 1px; background: #ddd;">
+
+  <p><em>🌱 Currently learning full-stack development and improving my design-to-code workflow using Figma and TailwindCSS.</em></p>
+###
+
+
 
 ###
