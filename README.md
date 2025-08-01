@@ -34,7 +34,7 @@
   <a href="https://www.x.com/KanishkT2" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/qNZ3Katf" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/RhsVB8NaWV" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.twitch.tv/warlord_0401" target="_blank" rel="noopener noreferrer">
@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WarLord0401&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
